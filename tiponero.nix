@@ -36,6 +36,7 @@ in {
       ADMIN_PASSWORD = secrets.tiponeroAdminPassword;
       SESSION_SECRET = secrets.tiponeroSessionSecret;
       FIAT_CURRENCY = "EUR";
+      BASE_URL = secrets.tiponeroBaseUrl;
     };
   };
 
