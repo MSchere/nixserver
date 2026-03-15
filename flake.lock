@@ -29,11 +29,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1773614186,
-        "narHash": "sha256-Wqur0aapzWe9Bv3XHJSeUxTbDJWXcKZ8TrNqLBNrQWs=",
+        "lastModified": 1773615498,
+        "narHash": "sha256-dQ1jNW2QJlBDtdMXuH5jh7r6GsAkZxdR4e5V5QJLJaU=",
         "owner": "tiponero",
         "repo": "tiponero-core",
-        "rev": "898f25c488bcaf07b013fd0c861af77d85f6babd",
+        "rev": "8ba0bb05899eefb2b358281b054319d44b150f78",
         "type": "github"
       },
       "original": {
