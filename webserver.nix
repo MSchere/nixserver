@@ -3,7 +3,7 @@
 let
   appDir = "/var/lib/spending-tracker/app";
   dataDir = "/var/lib/spending-tracker";
-  secrets = import ./secrets.nix;
+  secrets = import /etc/nixos/secrets.nix;
 in {
   services.postgresql = {
     enable = true;

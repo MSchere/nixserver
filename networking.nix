@@ -4,7 +4,7 @@
     useDHCP = true;
     firewall = {
       enable = true;
-      allowedTCPPorts = [ 22 80 3000 18080 18081 18082 18083 ];
+      allowedTCPPorts = [ 22 80 3000 8080 18080 18081 18082 18083 ];
     };
   };
 

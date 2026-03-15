@@ -4,6 +4,7 @@
     ./networking.nix
     ./webserver.nix
     ./monero.nix
+    ./tiponero.nix
   ];
 
   time.timeZone = "Europe/Madrid";

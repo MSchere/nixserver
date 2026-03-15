@@ -1,6 +1,6 @@
 { config, pkgs, ... }:
 let
-  secrets = import ./secrets.nix;
+  secrets = import /etc/nixos/secrets.nix;
 in {
   services.monero = {
     enable = true;
