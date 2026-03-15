@@ -8,6 +8,7 @@
   ];
 
   time.timeZone = "Europe/Madrid";
+  nix.settings.experimental-features = [ "nix-command" "flakes" ];
 
   environment.systemPackages = with pkgs; [
     vim htop git curl wget nodejs_22 pnpm openssl python3
